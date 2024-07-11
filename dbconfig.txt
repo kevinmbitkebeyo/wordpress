@@ -1,0 +1,13 @@
+define( 'DB_NAME', 'wordpress' );
+
+/** Database username */
+define( 'DB_USER', 'kevino' );
+
+/** Database password */
+define( 'DB_PASSWORD', 'Od8fLGFbUb-lO7wJ' );
+
+/** Database hostname */
+define( 'DB_HOST', 'localhost' );
+
+/** Database charset to use in creating database tables. */
+define( 'DB_CHARSET', 'utf8' );
